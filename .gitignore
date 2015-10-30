@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.idea
+*.iml
+*.DS_Store
+.c9
+coverage/
